@@ -1,4 +1,4 @@
-Data for project can be found at [https://uflorida-my.sharepoint.com/:x:/g/personal/sean_hamilton_ufl_edu/ER3RUZ_P0tpMjBpc4a7tdAUBjVTk1lz57sMYhwlSj1VRXg?e=Uv9Z3d](url)
+Data for project can be found at https://uflorida-my.sharepoint.com/:x:/g/personal/sean_hamilton_ufl_edu/ER3RUZ_P0tpMjBpc4a7tdAUBjVTk1lz57sMYhwlSj1VRXg?e=Uv9Z3d
 
 # Getting Started with Create React App
 
