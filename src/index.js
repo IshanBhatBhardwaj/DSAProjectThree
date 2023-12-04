@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import Web from './components/web'
 import Spiral from './components/spiral'
+import Octet from './components/octet'
 import reportWebVitals from './reportWebVitals';
 import {
   createBrowserRouter,
@@ -22,12 +23,15 @@ const router = createBrowserRouter([
   {
     path: "spiral",
     element: <Spiral/>,
+  },
+  {
+    path: "octet",
+    element: <Octet/>
   }
 ]);
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-
     <RouterProvider router={router} />
 );
 
