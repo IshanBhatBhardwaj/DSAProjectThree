@@ -1,5 +1,7 @@
 Data for project can be found at https://uflorida-my.sharepoint.com/:x:/g/personal/sean_hamilton_ufl_edu/ER3RUZ_P0tpMjBpc4a7tdAUBjVTk1lz57sMYhwlSj1VRXg?e=Uv9Z3d
 
+Logo: https://drive.google.com/file/d/1P4aRK0TWWB8NPNB8IbxaBmvYrDk0_rOK/view?usp=sharing
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
