@@ -5,7 +5,6 @@ import App from './App';
 import Web from './components/web'
 import Spiral from './components/spiral'
 import Octet from './components/octet'
-import reportWebVitals from './reportWebVitals';
 import {
   createBrowserRouter,
   RouterProvider,
@@ -38,4 +37,3 @@ root.render(
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();

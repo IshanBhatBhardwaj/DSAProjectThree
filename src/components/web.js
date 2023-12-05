@@ -2,7 +2,7 @@ import React from 'react'
 import {useState, useEffect} from 'react'
 import { toHaveAttribute } from '@testing-library/jest-dom/dist/matchers'
 import Graph from 'react-vis-network-graph'
-import {nodes_, edges_} from './data3.js'
+import {nodes_, edges_} from './dataForWeb.js'
 import {Link} from 'react-router-dom'
 import image from './flix_finder_logo.png'
 

@@ -23,12 +23,6 @@ def api():
 
     return {"api": {"nodes": node, "edges": edge}}
 
-
-@app.route("/test")
-def test():
-    return {"test": ['hello', "world"]}
-
-
 @app.route("/octet", methods=['POST'])
 def octet():
 

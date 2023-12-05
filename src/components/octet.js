@@ -1,5 +1,4 @@
 import '../App.css';
-import GraphView from './graphForOctet';
 import { useState } from "react"
 import Graph from 'react-vis-network-graph'
 import {Link} from 'react-router-dom'

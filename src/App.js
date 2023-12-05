@@ -1,6 +1,4 @@
 import './App.css';
-import GraphView from './components/graph';
-import movieView from './components/movieverse';
 import Graph from 'react-vis-network-graph'
 import { useState, useEffect } from "react"
 import {Link} from 'react-router-dom'

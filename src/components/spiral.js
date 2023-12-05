@@ -2,7 +2,7 @@ import React from 'react'
 import { useState} from 'react'
 import { toHaveAttribute } from '@testing-library/jest-dom/dist/matchers'
 import Graph from 'react-vis-network-graph'
-import {nodes, edges} from './hopefullylast.js'
+import {nodes, edges} from './dataForYarn.js'
 import {Link} from 'react-router-dom'
 import image from './flix_finder_logo.png'
 
