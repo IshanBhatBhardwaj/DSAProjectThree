@@ -14,6 +14,7 @@ In the project directory, cd into server. Then you can run:
 
 With the server running, open a new terminal. In the project directory, run:
 
+### `npm i`
 ### `npm run start`
 
 
